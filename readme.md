@@ -18,9 +18,10 @@ I haven't been able to successfully finish a game yet.
 ## To-Do
 
 [ ] Fix recycling the deck after hitting the last card  
-[ ] Fix styling the unflipped cards from the deck
-[ ] Fix styling cards once they are in the top 4 final positions
-[ ] Create a way to quickly move to certain columns (maybe using numbers)
+[ ] Fix styling the unflipped cards from the deck  
+[ ] Fix styling cards once they are in the top 4 final positions  
+[ ] Create a way to quickly move to certain columns (maybe using numbers)  
+[ ] Show card color in status bar
 
 ## Development
 
