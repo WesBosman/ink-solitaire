@@ -2,7 +2,18 @@
 
 This is an experiment where I tried creating a cli solitaire game.  
 I haven't been able to successfully finish a game yet.
+
 ![screenshot.png](screenshot.png 'Start of the game')
+
+### Controls
+
+| Command    | Description                                                     |
+| ---------- | --------------------------------------------------------------- |
+| p          | Pick selected card (green border)                               |
+| d          | Draw a card from the deck (should focus drawn card)             |
+| m          | Move a selected card                                            |
+| f          | Flip an unflipped card                                          |
+| arrow keys | Move between deck, columns and top 4 spots (should wrap around) |
 
 ## To-Do
 
